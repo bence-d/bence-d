@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello and welcome 👋🏻
 
-<!--
-**bence-d/bence-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="font-size: 1.5rem;">
+  I'm Bence, a software developer based in 🇦🇹 Austria. 
+  <br>
+  Here to create awesome stuff 🚀
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <p>Codewars<p>
+  <img src="https://www.codewars.com/users/bence-d/badges/large" alt="Codewars Badge"/>
+</div>
